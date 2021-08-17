@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "freitagsmailv001",
+    "slug": "freitagsmailv001",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "freitagsmailv001"
+}
